@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Registration-list-react/static/css/main.fd8c8f99.css",
+    "main.js": "/Registration-list-react/static/js/main.d848a6da.js",
+    "index.html": "/Registration-list-react/index.html",
+    "main.fd8c8f99.css.map": "/Registration-list-react/static/css/main.fd8c8f99.css.map",
+    "main.d848a6da.js.map": "/Registration-list-react/static/js/main.d848a6da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd8c8f99.css",
+    "static/js/main.d848a6da.js"
+  ]
+}
